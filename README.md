@@ -1,33 +1,34 @@
 # 👋 Hi, I’m Yuliya!
 ## 👀 I’m QA Manual and Automation Engineer
 - 📫 How to reach me: 
-  
-  [e-mail](mailto:9757975@gmail.com)
-  
-  [telegram](https://t.me/IChulietta)
+ 
+  <a href="mailto:9757975@gmail.com">
+    <img src="images/chulietta_Gmail.svg" title="9757975@gmail.com" alt="9757975@gmail.com" width="15" height="15"/>&nbsp;
+  </a>
+ <a href="https://t.me/IChulietta">
+     <img src="images/chulietta_Telegram.svg" title="Telegram" alt="Telegram" width="15" height="15"/>&nbsp;
+   </a>
 
-  
+
 ![](https://komarev.com/ghpvc/?username=chulietta)
 
 ## Languages and Tools
 
 <div>
-  <img src="images/chulietta_Java.svg" title="Intelij IDEA" alt="Intelij IDEA" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="images/chulietta_Intelij_IDEA.svg" title="Intelij IDEA" alt="Intelij IDEA" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_Java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_Gradle.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_junit5.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_selenide-logo.svg" title="Selenide" alt="Selenide" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_RESTAssured.svg" title="RESTAssured" alt="RESTAssured " width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_Jenkins.svg"  title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_allureReport.svg" title="allureReport" alt="allureReport" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_allureTestOPS.svg" title="allureTestOPS" alt="allureTestOPS" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_Browserstack.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_selenoid.svg" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_Github.svg" title="Github"  alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
 
