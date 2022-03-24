@@ -1,15 +1,16 @@
 # 👋 Hi, I’m Yuliya!
-## 👀 I’m QA Manual and Automation Engineer
-- 📫 How to reach me: 
- 
+## 👀 I’m Software Engineer In Test 
+📫 How to reach me: 
+ <div> 
   <a href="mailto:9757975@gmail.com">
-    <img src="images/chulietta_Gmail.svg" title="9757975@gmail.com" alt="9757975@gmail.com" width="15" height="15"/>&nbsp;
+    <img src="images/chulietta_Gmail.svg" title="9757975@gmail.com" alt="9757975@gmail.com" width="25" height="25"/>&nbsp;
   </a>
  <a href="https://t.me/IChulietta">
-     <img src="images/chulietta_Telegram.svg" title="Telegram" alt="Telegram" width="15" height="15"/>&nbsp;
+     <img src="images/chulietta_Telegram.svg" title="Telegram" alt="Telegram" width="25" height="25"/>&nbsp;
    </a>
+</div>
 
-
+##
 ![](https://komarev.com/ghpvc/?username=chulietta)
 
 ## Languages and Tools
@@ -31,11 +32,6 @@
   <img src="images/chulietta_Github.svg" title="Github"  alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
+##
 
-  
-
-<!---
-chulietta/chulietta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chulietta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
