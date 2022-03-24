@@ -27,10 +27,13 @@
   <img src="images/chulietta_allureReport.svg" title="allureReport" alt="allureReport" width="40" height="40"/>&nbsp;
   <img src="images/chulietta_allureTestOPS.svg" title="allureTestOPS" alt="allureTestOPS" width="40" height="40"/>&nbsp;
   <img src="images/chulietta_Browserstack.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="images/chulietta_Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="images/chulietta_selenoid.svg" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
   <img src="images/chulietta_github2.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="images/chulietta_Jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_Confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ##
