@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Yuliya!
 ## 👀 I’m QA Manual and Automation Engineer
 - 📫 How to reach me: 
-
+  
   [e-mail](mailto:9757975@gmail.com)
   
   [telegram](https://t.me/IChulietta)
