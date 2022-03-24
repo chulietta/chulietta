@@ -29,7 +29,8 @@
   <img src="images/chulietta_Browserstack.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
   <img src="images/chulietta_Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="images/chulietta_selenoid.svg" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
-  <img src="images/chulietta_Github.svg" title="Github"  alt="Github" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_github2.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="images/chulietta_Jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
 
 ##
