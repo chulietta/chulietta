@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Yuliya!
 ## 👀 I’m QA Manual and Automation Engineer
 - 📫 How to reach me: 
+  9757975@gmail.com
+  https://t.me/IChulietta
   
 ![](https://komarev.com/ghpvc/?username=chulietta)
 
