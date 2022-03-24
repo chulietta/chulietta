@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Yuliya!
-## 👀 I’m Software Engineer In Test 
+### I’m Software Engineer In Test 
 📫 How to reach me: 
  <div> 
   <a href="mailto:9757975@gmail.com">
@@ -9,9 +9,6 @@
      <img src="images/chulietta_Telegram.svg" title="Telegram" alt="Telegram" width="25" height="25"/>&nbsp;
    </a>
 </div>
-
-##
-![](https://komarev.com/ghpvc/?username=chulietta)
 
 ## Languages and Tools
 
@@ -37,5 +34,6 @@
 </div>
 
 ##
+![](https://komarev.com/ghpvc/?username=chulietta)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chulietta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
